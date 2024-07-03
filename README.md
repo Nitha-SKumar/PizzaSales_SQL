@@ -1,9 +1,9 @@
 # PizzaSales_SQL
 
 
-# Pizza Database Queries README
 
-This README provides an overview of the SQL queries developed for analyzing data from a pizza restaurant's ordering system. These queries are designed to provide insights into sales trends, customer preferences, and operational metrics through three levels of complexity: Basic, Intermediate, and Advanced.
+
+This provides an overview of the SQL queries developed for analyzing data from a pizza restaurant's ordering system. These queries are designed to provide insights into sales trends, customer preferences, and operational metrics through three levels of complexity: Basic, Intermediate, and Advanced.
 
 ## Table of Contents
 
