@@ -42,7 +42,7 @@ This README provides an overview of the SQL queries developed for analyzing data
 
 ### 4. Average Number of Pizzas Ordered Per Day
 - **Purpose**: Calculates the average number of pizzas ordered per day.
-- 
+
 ### 5. Top 3 Pizza Types by Revenue
 - **Purpose**: Identifies the top three pizza types based on generated revenue.
 
