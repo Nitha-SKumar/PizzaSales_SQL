@@ -57,3 +57,7 @@ This provides an overview of the SQL queries developed for analyzing data from a
 ### 3. Top Pizza Types by Revenue in Each Category
 - **Purpose**: Determines the top pizza types by revenue within each category.
 
+[Code file](https://github.com/Nitha-SKumar/PizzaSales_SQL/blob/main/pizza_sales%20Analysis.sql)
+
+
+[Report](https://github.com/Nitha-SKumar/PizzaSales_SQL/blob/main/pizza_sales_report.pdf)
