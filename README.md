@@ -60,4 +60,8 @@ This provides an overview of the SQL queries developed for analyzing data from a
 [Code file](https://github.com/Nitha-SKumar/PizzaSales_SQL/blob/main/pizza_sales%20Analysis.sql)
 
 
-[Report](https://github.com/Nitha-SKumar/PizzaSales_SQL/blob/main/pizza_sales_report.pdf)
+[PDF](https://github.com/Nitha-SKumar/PizzaSales_SQL/blob/main/pizza_sales_report.pdf)
+
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDQ3YjljNmUtNjc1NC00MmE3LWEyMjEtNjlhYmViN2I3Zjc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
